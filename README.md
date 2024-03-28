@@ -1,7 +1,5 @@
 ### Ola eu sou Lucas messias ✋
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmessias322&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmessias322&layout=compact)](https://github.com/lucasmessias322/github-readme-stats)
 
 ## Tecnologias que uso no meu dia a dia
